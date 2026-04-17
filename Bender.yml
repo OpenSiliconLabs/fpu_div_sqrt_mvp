@@ -2,7 +2,7 @@ package:
   name: fpu_div_sqrt_mvp
 
 dependencies:
-  common_cells: { git: "https://github.com/OpenSiliconLabs/common_cells.git", rev: osl-dev }
+  common_cells: { git: "git@github.com:OpenSiliconLabs/common_cells.git", rev: osl-dev }
 
 sources:
   # Level 0
